@@ -1,4 +1,4 @@
-# Online Weather Forecast1
+# ** Online Weather Forecast **
 Online Weather Forecast is a web application that helps users check the weather for any location or by using their current location. It provides real-time weather data such as temperature, wind speed, and forecasts, along with a map view.
 
 
