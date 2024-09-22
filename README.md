@@ -1,8 +1,8 @@
-#Online Weather Forecast1
+# Online Weather Forecast1
 Online Weather Forecast is a web application that helps users check the weather for any location or by using their current location. It provides real-time weather data such as temperature, wind speed, and forecasts, along with a map view.
 
 
-##Features
+## Features
 
 - Location-based Weather Search: Look up weather conditions by entering a specific city or region.
 - Current Location Weather: Use the "Use Current Location" feature to find weather information based on your GPS coordinates.
@@ -11,11 +11,11 @@ Online Weather Forecast is a web application that helps users check the weather 
 - Weather News Alerts: Stay updated with news alerts about weather conditions in different areas.
 
 
-##Live Demo
+## Live Demo
 You can try the app live here:[https://nathashaperera42.github.io/online--weather-forecast/]
 
 
-##Getting Started
+## Getting Started
 Prerequisites
 To run this project, you'll need:
 - A web browser (Chrome, Firefox, Safari, etc.)
@@ -34,14 +34,14 @@ Steps to Run Locally
    - Right-click on index.html
    - Select Open with... and choose your preferred web browser
 
-##Usage
+## Usage
 1. Searching Weather by Location: Type a city or region name into the search bar and click the search button. The weather details for the entered location will be displayed, including temperature, wind speed, and the weather forecast.
 
 2. Using Your Current Location: Click the "Use Current Location" button, and the app will display weather data based on your current GPS location.
 
 3. Exploring Weather Details: View the temperature, wind speed, and forecast for the upcoming days. See your location on the map, which updates based on the searched or current location.
 
-##API Key Setup
+## API Key Setup
 The project uses external APIs for weather and news data. To personalize or replace the API keys, follow these steps:
 
 1. Open the script.js file in a code editor.
@@ -50,16 +50,16 @@ The project uses external APIs for weather and news data. To personalize or repl
 
 3. Save the file after making changes.
 
-##API Services Used
+## API Services Used
 - Weather API: Used for fetching real-time weather data. Provided by WeatherAPI.com.
 - Maps API: Used for displaying the location on a map. Provided by OpenStreetMap
 
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to suggest improvements, report bugs, or add new features, feel free to create a pull request or open an issue. Let's work together to make this project better.
 
 
-##Credits
+## Credits
 Special thanks to the following API providers:
 
 - WeatherAPI.com for weather data.
