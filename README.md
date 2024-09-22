@@ -12,4 +12,25 @@ Features
 
 
 Live Demo
-You can try the app live here:
+You can try the app live here:[https://nathashaperera42.github.io/online--weather-forecast/]
+
+
+Getting Started
+Prerequisites
+To run this project, you'll need:
+- A web browser (Chrome, Firefox, Safari, etc.)
+- Internet connection (for API calls)
+Steps to Run Locally
+1. Clone the Repository
+   Open a terminal and run the following command to clone the project:
+   git clone  
+
+2. Navigate to the Project Directory
+   Change into the project folder:
+   cd Online-Weather-Forecast
+
+3. Open the Application
+   You can view the app locally by opening the index.html file in your browser:
+   - Right-click on index.html
+   - Select Open with... and choose your preferred web browser.
+
